@@ -5,7 +5,7 @@ then a second block based on the creation time,
 and a third block based on both of these things.
 
 This ID will be necessary to change password if you 
-forget your password.   XXXX-XXXX
+forget your password.   XXXX-XXXX-XXXX
 """
 
 import binaryConverter
