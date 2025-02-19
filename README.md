@@ -5,7 +5,7 @@ I got this idea from a friend and i thought that it could really be a good proje
 
 # How does it work?
 
-So just download the file and run the Client.py file to get the program running.
+So just download the file and run the Client.py file with Python 3.11.9 to get the program running.
 You will have to create an account so just follow the steps and you'll be fine.
 
 When arriving to your dashboard you will have 5 buttons on the right, the top one (Account) everything related to the account management part and the loans,below there is the transfert part you enter the IBAN number related to the account you want to send money to and the amount you want to send. The iban number can be found in the info window, the button just below the transfert one. The settings button lets you change your username, password and delete your account. Then, the logout button just log you out from your account.
